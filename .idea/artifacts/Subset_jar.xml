@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact name="Subset.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Subset_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Randomized Queues and Deques.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="Randomized Queues and Deques" />
+      </element>
+      <element id="file-copy" path="$APPLICATION_HOME_DIR$/lib/junit-4.10.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../lib/algs4.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/../lib/stdlib.jar" />
+    </root>
+  </artifact>
+</component>
